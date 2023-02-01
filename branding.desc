@@ -1,0 +1,29 @@
+---
+componentName: lubuntu
+
+windowExpanding:    fullscreen
+
+strings:
+    productName:         Rhino Linux
+    shortProductName:    Rhino Linux
+    version:             23.04
+    shortVersion:        lunar
+    versionedName:       Rhino Linux
+    shortVersionedName:  Rhino Linux 23.04
+    bootloaderEntryName: Ubuntu
+    productUrl:          https://rhinolinux.org/
+    supportUrl:          https://rhinolinux.org/support
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "icon.png"
+    productWelcome:      "welcome.png"
+
+slideshow:               "show.qml"
+
+slideshowAPI:            1
+
+style:
+   SidebarBackground:    "#808080"
+   SidebarText:          "#FFFFFF"
+   SidebarTextSelect:    "#0068C8"
