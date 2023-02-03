@@ -6,7 +6,7 @@ Presentation
     id: presentation
 
     Timer {
-        interval: 10000
+        interval: 15000
         running: true
         repeat: true
         onTriggered: presentation.goToNextSlide()
@@ -17,10 +17,9 @@ Presentation
             id: image1
             x:0
             y:0
-	    scale: 0.5
-            width: 960
-            height: 540
-            #fillMode: Image.PreserveAspectFit
+            width: 817
+            height: 466
+            fillMode: Image.PreserveAspectFit
             smooth: true
             source: "Installers.png"
         }
@@ -31,10 +30,9 @@ Presentation
             id: image2
             x: 0
             y: 0
-	    scale: 0.5
-            width: 960
-            height: 540
-            #fillMode: Image.PreserveAspectFit
+            width: 817
+            height: 466
+            fillMode: Image.PreserveAspectFit
             smooth: true
             source: "NewLook.png"
         }
@@ -45,11 +43,11 @@ Presentation
             id: image3
             x: 0
             y: 0
-	    scale: 0.5
-            width: 960
-            height: 540
-            #fillMode: Image.PreserveAspectFit
+            width: 817
+            height: 466
+            fillMode: Image.PreserveAspectFit
             smooth: true
             source: "FindUs.png"
         }
+    }
 }
