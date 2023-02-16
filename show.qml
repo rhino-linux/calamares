@@ -6,48 +6,54 @@ Presentation
     id: presentation
 
     Timer {
-        interval: 15000
+        id: advanceTimer
+        interval: 8000
         running: true
         repeat: true
         onTriggered: presentation.goToNextSlide()
     }
+    
     Slide {
         Image {
-            anchors.centerIn: parent
             id: image1
-            x:0
-            y:0
-            width: 817
-            height: 466
+            source: "Base.png"
+	    width: 1080
             fillMode: Image.PreserveAspectFit
-            smooth: true
-            source: "Installers.png"
+            anchors.centerIn: parent
+	    x: 0
+	    y: 120
         }
     }
+
     Slide {
+
         Image {
-            anchors.centerIn: parent
             id: image2
-            x: 0
-            y: 0
-            width: 817
-            height: 466
+            source: "Wizard.png"
+	    width: 1080
             fillMode: Image.PreserveAspectFit
-            smooth: true
-            source: "NewLook.png"
-        }
-    }
-    Slide {
-        Image {
             anchors.centerIn: parent
-            id: image3
-            x: 0
-            y: 0
-            width: 817
-            height: 466
-            fillMode: Image.PreserveAspectFit
-            smooth: true
-            source: "FindUs.png"
+	    x: 0
+	    y: 120
         }
     }
+
+
+
+    Slide {
+
+        Image {
+            id: image3
+            source: "XFCE.png"
+	    width: 1080
+            fillMode: Image.PreserveAspectFit
+            anchors.centerIn: parent
+	    x: 0
+	    y: 120
+        }
+    }
+
+
+
+    Component.onCompleted: advanceTimer.running = true
 }
