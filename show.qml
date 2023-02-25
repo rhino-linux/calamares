@@ -51,6 +51,19 @@ Presentation
 	    x: 0
 	    y: 120
         }
+	
+	
+    Slide {
+
+        Image {
+            id: image4
+            source: "rhinopkg.png"
+	    width: 1080
+            fillMode: Image.PreserveAspectFit
+            anchors.centerIn: parent
+	    x: 0
+	    y: 120
+        }
     }
 
 
