@@ -16,9 +16,9 @@ strings:
     shortVersionedName:  Rhino Linux
     bootloaderEntryName: Ubuntu
     productUrl:          https://rhinolinux.org/
-    supportUrl:          https://rhinolinux.org/support
-    releaseNotesUrl:     https://rhinolinux.org/about
-    donateUrl:           https://rhinolinux.org/donate
+    supportUrl:          https://rhinolinux.org/wiki/
+    releaseNotesUrl:     https://rhinolinux.org/news/
+    donateUrl:           https://liberapay.com/Rolling-Rhino-Remix/
 
 images:
     productBanner:       "welcome.png"
