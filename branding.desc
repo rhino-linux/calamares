@@ -10,9 +10,9 @@ navigation: widget
 strings:
     productName:         Rhino Linux
     shortProductName:    Rhino Linux
-    version:             (alpha)
+    version:             (beta)
     shortVersion:        devel
-    versionedName:       Rhino Linux (alpha)
+    versionedName:       Rhino Linux (beta)
     shortVersionedName:  Rhino Linux
     bootloaderEntryName: Ubuntu
     productUrl:          https://rhinolinux.org/

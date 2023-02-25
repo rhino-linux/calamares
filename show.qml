@@ -51,6 +51,7 @@ Presentation
 	    x: 0
 	    y: 120
         }
+    }
 	
 	
     Slide {
