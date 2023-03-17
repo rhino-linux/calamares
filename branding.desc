@@ -18,7 +18,7 @@ strings:
     productUrl:          https://rhinolinux.org/
     supportUrl:          https://rhinolinux.org/wiki/
     releaseNotesUrl:     https://rhinolinux.org/news/
-    donateUrl:           https://liberapay.com/Rolling-Rhino-Remix/
+    donateUrl:           https://ko-fi.com/rhinolinux
 
 images:
     productBanner:       "welcome.png"
