@@ -44,7 +44,7 @@ Presentation
 
         Image {
             id: image3
-            source: "XFCE.png"
+            source: "Unicorn.png"
 	    width: 1080
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
@@ -67,7 +67,18 @@ Presentation
         }
     }
 
+    Slide {
 
+        Image {
+            id: image5
+            source: "System.png"
+	    width: 1080
+            fillMode: Image.PreserveAspectFit
+            anchors.centerIn: parent
+	    x: 0
+	    y: 120
+        }
+    }
 
     Component.onCompleted: advanceTimer.running = true
 }
