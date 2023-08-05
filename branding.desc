@@ -10,9 +10,9 @@ navigation: widget
 strings:
     productName:         Rhino Linux
     shortProductName:    Rhino Linux
-    version:             (beta)
+    version:             stable
     shortVersion:        devel
-    versionedName:       Rhino Linux (beta)
+    versionedName:       Rhino Linux
     shortVersionedName:  Rhino Linux
     bootloaderEntryName: Ubuntu
     productUrl:          https://rhinolinux.org/
@@ -33,4 +33,3 @@ style:
    SidebarBackground:    "#2d2d2d"
    SidebarText:          "#FFFFFF"
    SidebarTextSelect:    "#0068C8"
-
