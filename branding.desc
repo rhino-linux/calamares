@@ -33,3 +33,4 @@ style:
    SidebarBackground:    "#2d2d2d"
    SidebarText:          "#FFFFFF"
    SidebarTextSelect:    "#0068C8"
+   SidebarTextCurrent:   "#FFFFFF"
