@@ -14,7 +14,7 @@ strings:
     shortVersion:        devel
     versionedName:       Rhino Linux
     shortVersionedName:  Rhino Linux
-    bootloaderEntryName: Ubuntu
+    bootloaderEntryName: Rhino
     productUrl:          https://rhinolinux.org/
     supportUrl:          https://rhinolinux.org/wiki/
     releaseNotesUrl:     https://rhinolinux.org/news/
