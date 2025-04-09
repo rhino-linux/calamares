@@ -18,7 +18,7 @@ strings:
     productUrl:          https://rhinolinux.org/
     supportUrl:          https://rhinolinux.org/wiki/
     releaseNotesUrl:     https://rhinolinux.org/news/
-    donateUrl:           https://ko-fi.com/rhinolinux
+    donateUrl:           https://opencollective.com/rhino-linux-and-pacstall
 
 images:
     productBanner:       "welcome.png"
