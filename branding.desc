@@ -6,6 +6,7 @@ windowExpanding:    normal
 windowSize: 1280px,750px
 windowPlacement: center
 navigation: widget
+sidebar: "widget,left"
 
 strings:
     productName:         Rhino Linux
@@ -17,8 +18,9 @@ strings:
     bootloaderEntryName: Rhino
     productUrl:          https://rhinolinux.org/
     supportUrl:          https://wiki.rhinolinux.org/
+    knownIssuesUrl:      https://github.com/rhino-linux/tracker/issues/
     releaseNotesUrl:     https://blog.rhinolinux.org/
-    donateUrl:           https://opencollective.com/rhino-linux-and-pacstall
+    donateUrl:           https://opencollective.com/rhino-linux-and-pacstall/
 
 images:
     productBanner:       "welcome.png"
@@ -32,5 +34,4 @@ slideshowAPI: 2
 style:
    SidebarBackground:    "#292338"
    SidebarText:          "#FFFFFF"
-   SidebarTextSelect:    "#0068C8"
    SidebarTextCurrent:   "#FFFFFF"
