@@ -16,8 +16,8 @@ strings:
     shortVersionedName:  Rhino Linux
     bootloaderEntryName: Rhino
     productUrl:          https://rhinolinux.org/
-    supportUrl:          https://rhinolinux.org/wiki/
-    releaseNotesUrl:     https://rhinolinux.org/news/
+    supportUrl:          https://wiki.rhinolinux.org/
+    releaseNotesUrl:     https://blog.rhinolinux.org/
     donateUrl:           https://opencollective.com/rhino-linux-and-pacstall
 
 images:
